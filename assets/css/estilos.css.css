@@ -1,0 +1,48 @@
+.navbar {
+	margin-bottom: 0;
+	
+}
+
+#footer {
+	position: absolute;
+	border-top: 5px solid #000000;
+	background-color: #333;
+	color: #CCC;
+	bottom: 0;
+	width: 100%;
+}
+
+#logo_footer {
+	text-align: center;
+}
+
+#col_two_footer {
+	margin-bottom: 0;
+	display: block;
+	position: relative;
+	float: left;
+}
+
+#sitios a {
+	color: #CCC;
+}
+
+#copyrights {
+	padding: 5px 0;
+	background-color: #CD171E;
+	font-size: 14px;
+	line-height: 1.8;
+	color: #fff;
+}
+
+.nobottommargin {
+	margin-bottom: 0;
+}
+
+.copyrights2 {
+	padding-top: 5px;
+	font-size: 11px;
+	line-height: 1.2;
+	color: #fff;
+}
+

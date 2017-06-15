@@ -1,0 +1,210 @@
+/*
+Universidad Nacional Autonoma de Mexico
+Facultad de Ingenieria 
+Hecho por:
+Herrejon Alarcon Jeerel Zalatiel
+Asesorado:
+Chavez Rodriguez Norma Elva
+2017
+*/
+
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	margin-bottom: 60px;
+}
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #CD171E;
+}
+
+#boton1 {
+	color: white;
+	background-color: #CD171E; 
+}
+
+.navbar {
+	margin-bottom: 0;
+	padding-top: 5px;
+	
+}
+
+.jumbotron{
+	background: #E6E6E6;
+	color: #CCC;
+	padding-top: 5px 0;
+	border-top: 5px solid #000000;
+	height: 150px;
+}
+
+#footer {
+	position: absolute;
+	border-top: 5px solid #000000;
+	background-color: #333;
+	color: #CCC;
+	bottom: 0;
+	width: 100%;
+}
+
+#logo_footer {
+	text-align: center;
+	height: 15px;
+}
+
+#col_two_footer {
+	margin-bottom: 0;
+	display: block;
+	position: relative;
+	float: left;
+}
+
+#sitios a {
+	color: #CCC;
+}
+
+#copyrights {
+	padding: 5px 0;
+	background-color: #CD171E;
+	font-size: 14px;
+	line-height: 1.8;
+	color: #fff;
+}
+
+.nobottommargin {
+	margin-bottom: 0;
+}
+
+.copyrights2 {
+	padding-top: 5px 0;
+	font-size: 11px;
+	line-height: 1.2;
+	color: #fff;
+}
+
+.navbar-default {
+  background-color: #ca0900;
+  border-color: #ca0900;
+}
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #000000;
+}
+.navbar-default .navbar-text {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #000000;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #000000;
+  background-color: #ca0900;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #000000;
+  background-color: #ca0900;
+}
+.navbar-default .navbar-toggle {
+  border-color: #ca0900;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ca0900;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+  color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+  color: #000000;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ffffff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #000000;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #000000;
+    background-color: #ca0900;
+  }
+}
+
+#color2 {
+	background:#f2f2f2;
+	color: #000000;
+}
+
+#color1 {
+	background: #CD171E;
+	color: #fff;
+}
+
+#espacio{
+	height: 90px;
+}
+
+#logo1 {
+	width: 430px;
+	height: 97px;
+}
+
+#logo2 {
+	width: 260px;
+	height: 97px;
+}
+
+#logo3 {
+	width: 280px;
+	height: 80px;
+}
+
+#logo4 {
+	width: 110px;
+	height: 110px;
+}
+
+#bio{
+	width: 360px;
+	height: 200px;
+}
+
+#ic {
+	width: 176px;
+	height: 83px;
+}
+
+#foto {
+	width: 280px;
+	height: 280px;
+}
+
+#titulares {
+	color: #9A0000;
+}
